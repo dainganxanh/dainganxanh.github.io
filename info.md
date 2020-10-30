@@ -1,3 +1,6 @@
+# [dainganxanh GitHub](https://dainganxanh.github.io/)
+
+Thử code vài dòng markdown xem sao
 # Đây là file info
 - Thử xem thế nào
 - Nếu được thì ok
