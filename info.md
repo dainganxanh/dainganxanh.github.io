@@ -1,4 +1,4 @@
-# [<<<<<<HOME](https://dainganxanh.github.io/)
+# [<< HOME](https://dainganxanh.github.io/)
 
 Thử code vài dòng markdown xem sao
 # Đây là file info
