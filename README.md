@@ -1,4 +1,4 @@
-# [Welcome to dainganxanh GitHub Pages](https://dainganxanh.github.io/)
+# Welcome to dainganxanh GitHub pages
 
 Thử thôi, không phải là trang chính nhé. Nếu hay ho thì sẽ sử dụng sau :)
 
