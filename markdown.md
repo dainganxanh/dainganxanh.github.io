@@ -170,6 +170,7 @@ Bấm vào [đây] để truy cập Google.
 
 [đây]:https://www.google.com "Truy cập Google"
 ```
+
 Bấm vào [đây] để truy cập Google.
 
 [đây]:https://www.google.com "Truy cập Google"
@@ -181,6 +182,7 @@ Bấm vào [đây] để truy cập Google.
 ```
 <URL>
 ```
+
 ```
 <https://www.google.com>
 ```
@@ -191,6 +193,7 @@ Bấm vào [đây] để truy cập Google.
 ### *e. Image:*
 Tương tự links, hình ảnh cũng có 2 cách để tạo:
 * *inline-style*
+
 ```
 ![Tên hình ảnh](link của hình ảnh "Mô tả tùy chọn")
 ```
