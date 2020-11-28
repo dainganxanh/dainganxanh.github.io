@@ -177,12 +177,14 @@ Bấm vào [đây] để truy cập Google.
 ---
 * Ngoài ra, nếu để URL trong cặp dấu `<` `>`, thì URL sẽ tự động tạo đường dẫn đến nó.
 
+
 ```
 <URL>
 ```
 ```
 <https://www.google.com>
 ```
+
 <https://www.google.com>
 
 ---
@@ -197,7 +199,7 @@ Tương tự links, hình ảnh cũng có 2 cách để tạo:
 ![anh-dep]()
 ```
 
-![anh-dep]()
+![anh-dep](https://pbs.twimg.com/media/EmyH6NeVEAA5IP0?format=jpg&name=900x900 "Hoa chè xanh nhà dainganxanh")
 
 Đoạn văn bản trong dấu `[]` tương đương với giá trị của thuộc tính *alt* trong thẻ `<img>` và link đặt trong dấu `()` sẽ tương đương với giá trị thuộc tính *src* trong thẻ `<img>`
 
