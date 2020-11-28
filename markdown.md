@@ -180,7 +180,7 @@ Bấm vào [đây] để truy cập Google.
 
 
 ```
-
+```
 ---
 ### *e. Image:*
 Tương tự links, hình ảnh cũng có 2 cách để tạo:
