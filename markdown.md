@@ -180,14 +180,6 @@ Bấm vào [đây] để truy cập Google.
 
 
 ```
-<URL>
-```
-
-```
-<https://www.google.com>
-```
-
-<https://www.google.com>
 
 ---
 ### *e. Image:*
