@@ -1,5 +1,5 @@
 # dainganxanh on GitHub
-Welcome to dainganxanh GitHub Pages!!!
+Welcome to dainganxanh GitHub pages!!!
 
 Thử thôi, không phải là trang chính nhé. Nếu hay ho thì sẽ sử dụng sau :)
 
