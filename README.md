@@ -3,6 +3,9 @@ Welcome to dainganxanh GitHub pages!!!
 
 Thử thôi, không phải là trang chính nhé. Nếu hay ho thì sẽ sử dụng sau :)
 
+## [Domain nhàn rỗi, share lại domain ](/free_domain.md)
+
+
 Ghi chú cú pháp đơn giản của [markdown tại đây](/markdown.md)
 
 Thông tin [balbal](/info.md)
